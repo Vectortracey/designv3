@@ -1,8 +1,8 @@
 ---
-Logo: assets/img/me.jpg
-Tagline: My portfolio.
+Logo: assets/img/picture1.webp
+Tagline: My portfolio site
 Social:
-    - title: Link till sidans github repo.
+    - title: Länk till mitt repo för kurssidan.
       url: https://github.com/Vectortracey/designv3
       icon: github
 ---

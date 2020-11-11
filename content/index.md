@@ -6,8 +6,9 @@ Description: This is my index page.
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
 
-This is a sample home page written in markdown with some frontmatter defined.
+<img src="/assets/img/me.jpg"  width="250" height="250"/>
 
-The pages make up a Anax site for demonstration purpose, it is something to start from.
+Mitt namn är Mikael, jag är 29 år och bor i Heby några mil utanför Uppsala.
+
+
